@@ -1,0 +1,222 @@
+{
+    "version": "4.5",
+    "frameRate": 24,
+    "armature": [
+        {
+            "defaultActions": [
+                {
+                    "gotoAndPlay": ""
+                }
+            ],
+            "aabb": {
+                "x": 0,
+                "y": 0,
+                "width": 600,
+                "height": 800
+            },
+            "type": "Comic",
+            "animation": [
+                {
+                    "frame": [
+                        {
+                            "duration": 24,
+                            "tweenEasing": null
+                        },
+                        {
+                            "event": "stop",
+                            "duration": 24,
+                            "tweenEasing": null
+                        },
+                        {
+                            "event": "stop",
+                            "duration": 1,
+                            "tweenEasing": null
+                        }
+                    ],
+                    "playTimes": 0,
+                    "ffd": [],
+                    "duration": 49,
+                    "name": "comic",
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "duration": 1,
+                                    "transform": {},
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 23,
+                                    "transform": {
+                                        "x": -416
+                                    },
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 25,
+                                    "transform": {},
+                                    "tweenEasing": null
+                                }
+                            ],
+                            "name": "王爷你好"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "duration": 24,
+                                    "transform": {},
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 1,
+                                    "transform": {},
+                                    "tweenEasing": null
+                                },
+                                {
+                                    "duration": 23,
+                                    "transform": {
+                                        "x": -600
+                                    },
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 1,
+                                    "transform": {},
+                                    "tweenEasing": null
+                                }
+                            ],
+                            "name": "图层_12"
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "王爷你好",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 1,
+                                    "color": {},
+                                    "displayIndex": -1
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 48,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_12",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 25,
+                                    "color": {},
+                                    "displayIndex": -1
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 1,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "bone": [
+                {
+                    "name": "root",
+                    "transform": {}
+                },
+                {
+                    "transform": {
+                        "y": 771,
+                        "x": 300
+                    },
+                    "name": "图层_12",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 172.5,
+                        "x": 249.5
+                    },
+                    "name": "王爷你好",
+                    "parent": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "name": "图层_12",
+                    "parent": "图层_12"
+                },
+                {
+                    "z": 1,
+                    "name": "王爷你好",
+                    "parent": "王爷你好"
+                }
+            ],
+            "during": [
+                {
+                    "frame": 0,
+                    "height": 70.5
+                },
+                {
+                    "frame": 24,
+                    "height": 338
+                },
+                {
+                    "frame": 48,
+                    "height": 1204
+                }
+            ],
+            "skin": [
+                {
+                    "name": "",
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_12",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_12"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "王爷你好",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "王爷你好"
+                        }
+                    ]
+                }
+            ],
+            "name": "armatureName",
+            "ik": []
+        }
+    ],
+    "name": "动漫测试数据_1",
+    "isGlobal": 0
+}

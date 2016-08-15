@@ -1,0 +1,1488 @@
+{
+    "armature": [
+        {
+            "animation": [
+                {
+                    "bone": [
+                        {
+                            "frame": [
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 36
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 351
+                                }
+                            ],
+                            "name": "图层_8"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 36
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "x": -573.5
+                                    },
+                                    "duration": 18
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 332
+                                }
+                            ],
+                            "name": "图层_9"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 55
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 7
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "x": -581.4205
+                                    },
+                                    "duration": 325
+                                }
+                            ],
+                            "name": "图层_10"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 62
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "scY": 0.1,
+                                        "scX": 0.1
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 301
+                                }
+                            ],
+                            "name": "图层_11"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 86
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 277
+                                }
+                            ],
+                            "name": "图层_12"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 110
+                                },
+                                {
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 36
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 241
+                                }
+                            ],
+                            "name": "图层_13"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 110
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "scY": 0.1,
+                                        "scX": 0.1
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 12
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 241
+                                }
+                            ],
+                            "name": "图层_14"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 146
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "y": 1,
+                                        "x": 294
+                                    },
+                                    "duration": 217
+                                }
+                            ],
+                            "name": "图层_15"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 170
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {
+                                        "x": -308
+                                    },
+                                    "duration": 193
+                                }
+                            ],
+                            "name": "图层_16"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 194
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "scY": 0.1,
+                                        "scX": 0.1
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 169
+                                }
+                            ],
+                            "name": "图层_17"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 218
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 145
+                                }
+                            ],
+                            "name": "图层_20"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 242
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 121
+                                }
+                            ],
+                            "name": "图层_21"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 266
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {},
+                                    "duration": 24
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 97
+                                }
+                            ],
+                            "name": "图层_22"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 290
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "x": -574
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 73
+                                }
+                            ],
+                            "name": "图层_23"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 314
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "scY": 0.1,
+                                        "scX": 0.1
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 49
+                                }
+                            ],
+                            "name": "图层_25"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 338
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "x": -185.5
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 25
+                                }
+                            ],
+                            "name": "图层_24"
+                        },
+                        {
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 362
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "transform": {
+                                        "scY": 0.1,
+                                        "scX": 0.1
+                                    },
+                                    "duration": 23
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "transform": {},
+                                    "duration": 1
+                                }
+                            ],
+                            "name": "图层_26"
+                        }
+                    ],
+                    "name": "comic",
+                    "duration": 387,
+                    "ffd": [],
+                    "frame": [
+                        {
+                            "duration": 36,
+                            "tweenEasing": null
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 19
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 7
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 36
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 48
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 72
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 24
+                        },
+                        {
+                            "event": "stop",
+                            "tweenEasing": null,
+                            "duration": 1
+                        }
+                    ],
+                    "playTimes": 0,
+                    "slot": [
+                        {
+                            "name": "图层_8",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 1,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 35,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 351
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_9",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 37,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 18,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 332,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_11",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 63,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 301,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_12",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 87,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 23,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 277
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_13",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 111,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 35,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 241
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_14",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 111,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 35,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 241,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_17",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 195,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 169,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_20",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 219,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 23,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 145
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_21",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 243,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 23,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 121
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_22",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 267,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "duration": 23,
+                                    "color": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "curve": [
+                                        0,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "color": {},
+                                    "tweenEasing": null,
+                                    "duration": 97
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_23",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 291,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 73,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_25",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 315,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 49,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_24",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 339,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 25,
+                                    "color": {}
+                                }
+                            ]
+                        },
+                        {
+                            "name": "图层_26",
+                            "frame": [
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 363,
+                                    "displayIndex": -1,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 23,
+                                    "color": {}
+                                },
+                                {
+                                    "tweenEasing": null,
+                                    "duration": 1,
+                                    "color": {}
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "aabb": {
+                "x": 0,
+                "y": 0,
+                "width": 600,
+                "height": 1066
+            },
+            "type": "Comic",
+            "defaultActions": [
+                {
+                    "gotoAndPlay": ""
+                }
+            ],
+            "ik": [],
+            "bone": [
+                {
+                    "name": "root",
+                    "transform": {}
+                },
+                {
+                    "transform": {
+                        "y": 3272,
+                        "x": 387
+                    },
+                    "name": "图层_26",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 3100,
+                        "x": 387
+                    },
+                    "name": "图层_25",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 3209,
+                        "x": 107
+                    },
+                    "name": "图层_24",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2923,
+                        "x": 301
+                    },
+                    "name": "图层_23",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2645,
+                        "x": 487
+                    },
+                    "name": "图层_22",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2646,
+                        "x": 374
+                    },
+                    "name": "图层_21",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2645,
+                        "x": 116
+                    },
+                    "name": "图层_20",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2259,
+                        "x": 405
+                    },
+                    "name": "图层_19",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 2259,
+                        "x": 129
+                    },
+                    "name": "图层_18",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1943,
+                        "x": 303
+                    },
+                    "name": "图层_17",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1662,
+                        "x": 749
+                    },
+                    "name": "图层_16",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1354.2604,
+                        "x": 351.7811
+                    },
+                    "name": "图层_14",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1353,
+                        "x": 60
+                    },
+                    "name": "图层_13",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1170,
+                        "x": 300
+                    },
+                    "name": "图层_12",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 1066,
+                        "x": 302
+                    },
+                    "name": "图层_11",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 895,
+                        "x": 884.5446
+                    },
+                    "name": "图层_10",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 679,
+                        "x": 301
+                    },
+                    "name": "图层_9",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "y": 278,
+                        "x": 300
+                    },
+                    "name": "图层_8",
+                    "parent": "root"
+                },
+                {
+                    "transform": {
+                        "scY": 1.0028,
+                        "y": 1662,
+                        "scX": 1.0028,
+                        "x": -146.8225
+                    },
+                    "name": "图层_15",
+                    "parent": "root"
+                }
+            ],
+            "skin": [
+                {
+                    "name": "",
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_15",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_15"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_19",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_19"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_17",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_17"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_20",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_20"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_8",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_8"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_9",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_9"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_13",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_13"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_26",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_26"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_14",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_14"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_10",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_10"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_16",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_16"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_11",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_11"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_23",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_23"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_24",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_24"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_12",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_12"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_21",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_21"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_25",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_25"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_18",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_18"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "name": "图层_22",
+                                    "transform": {}
+                                }
+                            ],
+                            "name": "图层_22"
+                        }
+                    ]
+                }
+            ],
+            "name": "armatureName",
+            "slot": [
+                {
+                    "name": "图层_26",
+                    "parent": "图层_26"
+                },
+                {
+                    "z": 1,
+                    "name": "图层_25",
+                    "parent": "图层_25"
+                },
+                {
+                    "z": 2,
+                    "name": "图层_24",
+                    "parent": "图层_24"
+                },
+                {
+                    "z": 3,
+                    "name": "图层_23",
+                    "parent": "图层_23"
+                },
+                {
+                    "z": 4,
+                    "name": "图层_22",
+                    "parent": "图层_22"
+                },
+                {
+                    "z": 5,
+                    "name": "图层_21",
+                    "parent": "图层_21"
+                },
+                {
+                    "z": 6,
+                    "name": "图层_20",
+                    "parent": "图层_20"
+                },
+                {
+                    "z": 7,
+                    "name": "图层_19",
+                    "parent": "图层_19"
+                },
+                {
+                    "z": 8,
+                    "name": "图层_18",
+                    "parent": "图层_18"
+                },
+                {
+                    "z": 9,
+                    "name": "图层_17",
+                    "parent": "图层_17"
+                },
+                {
+                    "z": 10,
+                    "name": "图层_16",
+                    "parent": "图层_16"
+                },
+                {
+                    "z": 11,
+                    "name": "图层_15",
+                    "parent": "图层_15"
+                },
+                {
+                    "z": 12,
+                    "name": "图层_14",
+                    "parent": "图层_14"
+                },
+                {
+                    "z": 13,
+                    "name": "图层_13",
+                    "parent": "图层_13"
+                },
+                {
+                    "z": 14,
+                    "name": "图层_12",
+                    "parent": "图层_12"
+                },
+                {
+                    "z": 15,
+                    "name": "图层_11",
+                    "parent": "图层_11"
+                },
+                {
+                    "z": 16,
+                    "name": "图层_10",
+                    "parent": "图层_10"
+                },
+                {
+                    "z": 17,
+                    "name": "图层_9",
+                    "parent": "图层_9"
+                },
+                {
+                    "z": 18,
+                    "name": "图层_8",
+                    "parent": "图层_8"
+                }
+            ],
+            "during": [
+                {
+                    "frame": 0,
+                    "height": 0
+                },
+                {
+                    "frame": 36,
+                    "height": 576.5
+                },
+                {
+                    "frame": 55,
+                    "height": 796
+                },
+                {
+                    "frame": 62,
+                    "height": 1005.5
+                },
+                {
+                    "frame": 86,
+                    "height": 1138.5
+                },
+                {
+                    "frame": 110,
+                    "height": 1222
+                },
+                {
+                    "frame": 146,
+                    "height": 1522
+                },
+                {
+                    "frame": 194,
+                    "height": 1819
+                },
+                {
+                    "frame": 218,
+                    "height": 2473
+                },
+                {
+                    "frame": 290,
+                    "height": 2835
+                },
+                {
+                    "frame": 314,
+                    "height": 3030.5
+                },
+                {
+                    "frame": 338,
+                    "height": 3030.5
+                },
+                {
+                    "frame": 362,
+                    "height": 3163
+                },
+                {
+                    "frame": 386,
+                    "height": 3387.5
+                }
+            ]
+        }
+    ],
+    "version": "4.5",
+    "isGlobal": 0,
+    "frameRate": 24,
+    "name": "002"
+}

@@ -1,0 +1,25 @@
+{
+	"resources": [
+		{
+			"name": "texture_0_png",
+			"type": "image",
+			"url": "新建文件夹 (2)/texture_0.png"
+		},
+		{
+			"name": "skeleton_json",
+			"type": "json",
+			"url": "新建文件夹 (2)/skeleton.json"
+		},
+		{
+			"name": "texture_0_json",
+			"type": "json",
+			"url": "新建文件夹 (2)/texture_0.json"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "texture_0_png,skeleton_json,texture_0_json"
+		}
+	]
+}
