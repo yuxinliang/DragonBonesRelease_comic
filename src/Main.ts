@@ -264,17 +264,20 @@ class Main extends egret.DisplayObjectContainer {
                 }
                 if (this.rePlay[num]) {
                     var timss;
+                    var timeTTemp;
                     if (duData.frame == 0) {
                         timss = 0;
+                        timeTTemp = 0;
                     } else {
                         timss = (duData.frame / this.armature.armatureData.frameRate)
+                        timeTTemp = 0.001;
                     }
                     this.rePlay[num] = false;
                     for (var i = 0; i < num; i++) {
                         this.rePlay[i] = false;//之前的都不可重播
                     }
                     //console.log(this.rePlay)
-                    this.armature.animation.gotoAndPlayByTime(this.armature.animation.animationList[0], timss + 0.001, 1);
+                    this.armature.animation.gotoAndPlayByTime(this.armature.animation.animationList[0], timss + timeTTemp, 1);
                 }
             } else {
                 this.isLoop = true;

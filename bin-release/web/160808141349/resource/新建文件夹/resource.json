@@ -1,1 +1,0 @@
-{"groups":[{"name":"TestArmature","keys":"skeleton_json,texture_json0,texture_png0"}],"resources":[{"url":"skeleton.json","type":"json","name":"skeleton_json"},{"url":"texture_0.json","type":"json","name":"texture_json0"},{"url":"texture_0.png","type":"image","name":"texture_png0"}]}
